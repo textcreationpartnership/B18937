@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of peace between Charles, King of Great Britain, France and Ireland, to the Parliament, with John the 4, King of Portugal, Algerres &amp;c. also His Majesties severall messages to both Houses, with the Parliaments respective answers thereunto.</title>
+            <title>Treaties, etc. Portugal, 1642.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18937</idno><idno type="EEBO-CITATION">11183705</idno>
+  <idno type="VID">204856</idno>
+  <idno type="EEBO-PROQUEST">2248502616</idno>
+  
+            <idno type="STC">Wing C2147A</idno>
+            <idno type="OCLC">11183705</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1437:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of peace between Charles, King of Great Britain, France and Ireland, to the Parliament, with John the 4, King of Portugal, Algerres &amp;c. also His Majesties severall messages to both Houses, with the Parliaments respective answers thereunto.</title>
+                  <title>Treaties, etc. Portugal, 1642.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Harrison,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Relations --  Portugal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204856:1"/>
+            <pb facs="tcp:204856:2"/>
+            <pb facs="tcp:204856:2"/>
+            <p>ARTICLES OF PEACE BETWEEN CHARLES KING OF <hi>GREAT BRITAIN, France,</hi> and <hi>Ireland,</hi> to the PARLIAMENT</p>
+            <p>With <hi>JOHN</hi> the 4. King of <hi>Portugal, Algerres, &amp;c.</hi>
+            </p>
+            <p>Also, His <hi>Majesties</hi> severall Messages to both Houses.</p>
+            <p>With the Parliaments respective Answers thereunto.</p>
+            <p>
+               <hi>London,</hi> printed for <hi>J. Harrison.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204856:3"/>
+            <pb facs="tcp:204856:3"/>
+            <head>Articles of Peace betweene <hi>Charles</hi> King of of <hi>Great Britain, France,</hi> and <hi>Ireland,</hi> with <hi>John</hi> the <hi>4.</hi> King of <hi>Por<g ref="char:EOLhyphen"/>tugall,</hi> &amp;c.</head>
+            <p>THis Kingdome being dangerously involved in distempers, distracti<g ref="char:EOLhyphen"/>ons, feares, and approaching cala<g ref="char:EOLhyphen"/>mities, his Majesty hath taken into his Princely care, the manifold disturbances thereof; and for the better security of the Kingdome from the suppository in<g ref="char:EOLhyphen"/>vasion of any forreigne power, his Ma<g ref="char:EOLhyphen"/>jesty hath concluded 21. Articles of peace and commerce betweene <hi>John</hi> the 4. King of <hi>Portugal;</hi> The full scope and sence of those Articles run thus (as hath bin col<g ref="char:EOLhyphen"/>lected from a Copie sent from his Ma<g ref="char:EOLhyphen"/>jestie.</p>
+            <pb facs="tcp:204856:4"/>
+            <p>
+               <hi>That the King of Great Britain, and the King of</hi> Portugall <hi>shall be united in a bro<g ref="char:EOLhyphen"/>therly peace.</hi>
+            </p>
+            <p>
+               <hi>That any War, or the intention thereof be<g ref="char:EOLhyphen"/>twixt either Kingdomes, shall be prevented during this Treatise.</hi>
+            </p>
+            <p>
+               <hi>That any Subject in either Kingdomes, (excluding onely those of the Romish Reli<g ref="char:EOLhyphen"/>gion) shall have liberty of Commerce &amp; free trafficke in the said Kings Dominions.</hi>
+            </p>
+            <p>
+               <hi>That free Commerce shall be made aswell by Sea as Land, and in every Territory by the subjects of each Kingdome.</hi>
+            </p>
+            <p>
+               <hi>That no violation or extremity of impri<g ref="char:EOLhyphen"/>sonment shall be offered unto any person, but if any Merchants of either part be engaged to any other man for Merchandise, that con<g ref="char:EOLhyphen"/>tentive satisfaction shalbe fully made with<g ref="char:EOLhyphen"/>in a yeare and a day.</hi>
+            </p>
+            <p>
+               <hi>That this unite confederation and accord betwixt both Kingdomes shall continue invi<g ref="char:EOLhyphen"/>olable.</hi>
+            </p>
+            <p>There are (I must confesse impartially) more words expressed at length in the Articles, but the full sence and intent of them includes no more then I have here declared. Notwithstanding his Majesty hath absolutely concluded these Arti<g ref="char:EOLhyphen"/>cles of peace and Commerce betwixt the King of <hi>Portugal,</hi> yet the Parliament have not subscribed, condescended, or given their assent thereunto: Wherefore it is now my intended resolution to revolve certaine passages and Messages betweene the King and the Parliament, sent to each other.</p>
+            <p>His Majesty professeth in one Message, that he will shut his eares against any that would incline him to a Civill Warre, and doth abhorre the ap<g ref="char:EOLhyphen"/>prehension of it, whereof the Parliament and o<g ref="char:EOLhyphen"/>thers have had cause to be suspitious, who reply<g ref="char:EOLhyphen"/>ed to his Majesty in this manner, That they did confesse it was a resolution most worthy of a Prince; but they could not beleeve that mind to have beene in those that came with his Majesty in a warlike manner to the House of Commons, or in those that accompanied his Majesty to <hi>Hamp<g ref="char:EOLhyphen"/>ton Court,</hi> and appeared in a Hostile manner at <hi>Kingstone upon Thames,</hi> or in divers others that followed his Majesty lately to <hi>Hull,</hi> or in those that after drew their Swords at <hi>Yorke,</hi> demanding who would be for the King; or in those that ad<g ref="char:EOLhyphen"/>vised his Majesty to declare Sir <hi>Iohn Hotham</hi> a Traytor, before the Message was sent concerning that businesse to the Parliament, or to make pro<g ref="char:EOLhyphen"/>positions to the Gentlemen of the County of
+<pb facs="tcp:204856:5"/>
+               <hi>Yorke</hi> to assist his Majestie to proceed against him in a way of force before he had, or possibly could receive an Answer from the Parliament, to whom he had sent to demand Justice of them against Sir <hi>Iohn Hotham</hi> for that fact.</p>
+            <p>His Majesty tells them, that instead of giving his Majestie satisfaction concerning that busines, they published a Declaration, as an appeale to the people, and as if their intercourse with his Ma<g ref="char:EOLhyphen"/>jestie, and for his satisfaction were now to no pur<g ref="char:EOLhyphen"/>pose, which course of the Parliament is alledged to bee very unagreeable to the modesty and dutie of former times, and not warrantable by any Pre<g ref="char:EOLhyphen"/>sidents, but what their selves have made.</p>
+            <p>The Parliament answer, That both Houses (e<g ref="char:EOLhyphen"/>specially being burthened as they were at that time with so many pressing and urgent Affaires) could not move as fast as himselfe, otherwise they would have sent it to his Majestie by a Com<g ref="char:EOLhyphen"/>mittee of both Houses, whereby it plainely doth appeare, that they did it not upon that ground, that they thought it was no more to any purpose to endeavour to give his Majesty satisfaction; and as for the duty and modesty of former times, from which they are said to have varied, and to want the warrant of any presidents therein, but what their selves have made; but if they have made any Presidents this Parliament, they have made them for posterity, and upon the same and better grounds of reason and Law, then those were, which their Predecessours first made any for them; and
+<pb facs="tcp:204856:5"/>as some Presidents ought not to be Rules for them to follow: so none can be limits to bound their proceedings, which may, and must vary, according to the different condition of times: And for this particular of setting forth Declarations for the satisfaction of the people, who have chosen and intrusted them with all that is dearest to them, (they say) if there be no example for it, it is be<g ref="char:EOLhyphen"/>cause there were never any such Monsters before, that ever attempted to dis<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffect the people from a Parliament, or could ever harbour a thought, that it might be effected: and (they say also) that if they have do<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e more then ever their Ancestours have done before, they have suffered more then ever they have suffered.</p>
+            <p>His Majesty declareth, That there is no legall power in either or both Houses of Parliament upon any pretence whatsoever, without his Maje<g ref="char:EOLhyphen"/>sties censent to command a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y part of the Militia of the Kingdome.</p>
+            <p>The Parliament affirmeth contrarily, and that they may dispose of any thing, wherein his Maje<g ref="char:EOLhyphen"/>stie, or any Subjects hath a right in such a way, as that the Kingdome may not bee exposed to any hazzard or danger, but may be secured thereby.</p>
+            <p>His Majestie proclaimeth Sir <hi>Iohn Hotham</hi> a Traitor, and declareth that <hi>Hull</hi> is his owne pro<g ref="char:EOLhyphen"/>perly, and that his intention to goe thither was onely to visit the Magazine.</p>
+            <p>The Parliament answer and proclaime Sir <hi>Iohn Hotham</hi> a faithfull Servant of theirs, and that <hi>Hull</hi>
+               <pb facs="tcp:204856:6"/>is no more his Majesties owne, then the Kingdom is his owne.</p>
+            <p>The Parliament cannot beleeve, that any man, that shall seriously consider the circumstances of that journey to <hi>Hull,</hi> can thinke that his Majesty would have gone thither at that time, and in that posture, that he pleased to put himselfe in towards the Parliament, if he had intended onely a visit of the Towne, and his owne Magazine.</p>
+            <p>His Majestie desireth to know, what the malig<g ref="char:EOLhyphen"/>nant partie is, which the Parliament so often pres<g ref="char:EOLhyphen"/>seth on him.</p>
+            <p>The Parliament telleth him, that for the ma<g ref="char:EOLhyphen"/>lignant partie his Majestie needeth not a definiti<g ref="char:EOLhyphen"/>on of the Law, nor yet a more full Character of them from both Houses of Parliament for to find them out: if hee will please onely to apply the Character, that himselfe hath made of them, to those to whom it doth duly and properly belong, who are so much disaffected to the peace of the Kingdome, as they that indeavour to disaffect his Majestie from the Houses of Parliament, and per<g ref="char:EOLhyphen"/>swade him to at such a distance from them both in place and affection: This is that malignant party and if his Maiestie would be pleased to remove them from about him, it would be the more effe<g ref="char:EOLhyphen"/>ctuall meanes to compose all the distractions, and to cure the distempers of this Kingdome.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204856:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
